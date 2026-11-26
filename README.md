@@ -12,7 +12,7 @@ One word describing an ex: unpaid-internship-with-no-reference — the ex was an
 node main.ts
 ```
 
-Writes the line to `/output/entry.txt` (36 characters, one word, deterministic).
+Writes the line to `/output/entry.txt` (35 characters, one word, deterministic).
 
 ---
 
